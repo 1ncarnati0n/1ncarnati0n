@@ -1,4 +1,4 @@
-### 반갑습니다! 건축을 디자인해왔고, 이제는 Ai를 디자인하려 합니다. 👋
+# 반갑습니다! 건축을 디자인해왔고, 이제는 Ai를 디자인하려 합니다. 👋
 <!--
 
 <!--
@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 
 ---
-#### Contact
+## Contact
  - Email : pattern.langue@gmail.com
  - 
 
 
 
 
-### Projects
+## Projects
 |Type|Data|   Title   |Task|Result|host|  
 |-----------|-----------|----------------------|-----------|-----------|-----------|
 |  Project  |23.05.09 ~ 23.05.16|교육기업 강의결제 데이터 분석|Exploratory Data Analysis||FastCampus| 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 |  Project  | |영상내 객체 및 로고 인페인팅|||연계기업: 커넥트브릭|
 |Competition|23.12.20 ~ 24.01.29|Enefit-Predict Energy Behavior of Prosumers|Time series prediction|On-going|Kaggle|
 
-### Paper Review
+## Paper Review
 |Type|Architecture|Paper Title|FrameWork|
 |-|-|-|-|
 | |VggNet|-|PyTorch|
