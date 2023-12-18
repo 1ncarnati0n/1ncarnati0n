@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 ## Contact
  - Email : pattern.langue@gmail.com
- - 
+ - Resume : Link
 
 
 
