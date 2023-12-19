@@ -1,4 +1,4 @@
-# 반갑습니다! 건축을 디자인해왔고, 이제는 AI를 디자인하려 합니다. 👋
+## 반갑습니다! 건축을 디자인해왔고, 이제는 AI를 디자인하려 합니다. 👋
 
 <!--
 **1ncarnati0n/1ncarnati0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
