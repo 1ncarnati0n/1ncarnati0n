@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ## Projects
-|Type|Data|Title|Task|Result|host|
+|Type|Date|Title|Task|Result|Host|
 |-|-|-|-|-|-|
 |  Project  |23.05.09 ~ 23.05.16|교육기업 강의결제 데이터 분석|Exploratory Data Analysis||FastCampus| 
 |Competition|                   |ICR-Identifying Age-Related Conditions||🥉Bronze|Kaggle (InVitro Cell Research)|
