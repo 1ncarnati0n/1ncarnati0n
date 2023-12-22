@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Projects
 |Type|Date|Title|Task|Result|Host|
 |-|-|-|-|-|-|
-|  Project  |23.05.09 ~ 23.05.16|교육기업 강의결제 데이터 분석|Exploratory Data Analysis||FastCampus| 
+|  Project  |23.05.09 ~ 23.05.16|교육기업 결제 데이터 분석|Exploratory Data Analysis||FastCampus| 
 |Competition|                   |[ICR-Identifying Age-Related Conditions](https://www.kaggle.com/wjeanvyun/competitions?tab=completed)|Binary Classification|🥉Bronze|Kaggle (InVitro Cell Research)|
 |Competition|23.09.04 ~ 23.09.08|Forecasting 119 call volume|Time series prediction|$5^{th}/60$|AI CONNECT (Mind's&Company)|
 |Competition|23.09.27 ~ 23.10.06|Image-based product defect detection|Image Classification|$4^{th}/64$|AI CONNECT (Mind's&Company)|
