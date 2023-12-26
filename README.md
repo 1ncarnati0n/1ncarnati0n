@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About Me
+ - Previous Work: https://1ncarnati0n.github.io
 
 ## Contact
  - **Email** : pattern.langue@gmail.com
