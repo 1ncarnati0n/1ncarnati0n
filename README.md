@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
- - Previous Work: https://1ncarnati0n.github.io
+ - Previous Works: https://1ncarnati0n.github.io
 
 ## Contact
  - **Email** : pattern.langue@gmail.com
