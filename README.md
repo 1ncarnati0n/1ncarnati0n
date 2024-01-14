@@ -1,6 +1,6 @@
 ## 👋 반갑습니다! 건축🏛을 디자인해왔고, 이제는 AI🦾를 디자인하려 합니다
 
-- I studied architecture in university, worked as an architect for 9 years. <br>
+- I studied architecture in university, worked as an architect for 9 years. `<br>`
   previous career archiving works 👉 https://1ncarnati0n.github.io
 - Now I'm looking for a new career as a data scientist and AI engineer.
 - *They(self) are nothing but a bundle or collection of different perceptions, which succeed each other with an inconceivable rapidity, and are in a perpetual flux and movement.*  - David Hume -
@@ -11,15 +11,15 @@
 
 #### Projects
 
-| Type        | Date               | Title                                                                                              | Task                          | Result                  | Host                           |
-| ----------- | ------------------ | -------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------- | ------------------------------ |
-| Project     | 23.05.09~ 23.05.16 | [교육기업 결제데이터 EDA](https://github.com/YearDream9jo/EDA_Project)                                  | Exploratory Data Analysis     | 우수 평가                  | Day1company                    |
-| Competition | 23.06.19~ 23.06.29 | [ICR-Identifying Age-Related Conditions](https://www.kaggle.com/wjeanvyun/competitions?tab=completed) | Binary Classification      | 🥉Bronze                | Kaggle <br> (InVitro Cell Research) |
-| Competition | 23.09.04~ 23.09.08 | Forecasting 119 call volume                                                                        | Time series prediction        | $5^{th}/60$           | AI CONNECT <br> (Mind's&Company)    |
-| Competition | 23.09.27~ 23.10.06 | Image-based product defect detection                                                               | Image Classification          | $4^{th}/64$           | AI CONNECT <br> (Mind's&Company)    |
-| Competition | 23.10.30~ 23.11.03 | The challenge of generating natural English translations                                           | Translation                   | $8^{th}/64$           | AI CONNECT <br> (Mind's&Company)    |
-| Project     | 23.11.09~ 23.12.15 | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo)                         | 영상 내 객체 및 로고 인페인팅 | 최종 우수 프로젝트 선정 | Mind's&Company <br> 커넥트브릭     |
-| Competition | 23.12.20~ 24.01.31 | Enefit-Predict Energy Behavior of Prosumers                                                        | Time series prediction        | on-going                | Kaggle (Enefit)            |
+| Type        | Date     | Title                                                                                              | Task                          | Result              | Host                                    |
+| ----------- | -------- | -------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- | --------------------------------------- |
+| Project     | 23.05    | [**교육기업 결제데이터 EDA**](https://github.com/YearDream9jo/EDA_Project)                                | Exploratory Data Analysis     | 우수 평가           | Day1company                             |
+| Competition | 23.06    | [ICR-Identifying Age-Related Conditions](https://www.kaggle.com/wjeanvyun/competitions?tab=completed) | Binary Classification         | 🥉Bronze            | Kaggle `<br>` (InVitro Cell Research) |
+| Competition | 23.09    | Forecasting 119 call volume                                                                        | Time series prediction        | $5^{th}/60$       | AI CONNECT `<br>` (Mind's&Company)    |
+| Competition | 23.09~10 | Image-based product defect detection                                                               | Image Classification          | $4^{th}/64$       | AI CONNECT `<br>` (Mind's&Company)    |
+| Competition | 23.10~11 | The challenge of generating natural English translations                                           | Translation                   | $8^{th}/64$       | AI CONNECT `<br>` (Mind's&Company)    |
+| Project     | 23.11~12 | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo)                 | 영상 내 객체 및 로고 인페인팅 | 최종 우수 PJT 선정 | Mind's&Company, `<br>` 커넥트브릭    |
+| Competition | 24.01    | Enefit-Predict Energy Behavior of Prosumers                                                        | Time series prediction        | on-going            | Kaggle (Enefit)                         |
 
 #### Paper Review
 
@@ -31,6 +31,6 @@
 
 Implement by PyTorch
 
-
-
 #### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-6ebafe.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Altair](https://img.shields.io/badge/Altair-%23d9ead3.svg?style=for-the-badge&logo=Altair&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
