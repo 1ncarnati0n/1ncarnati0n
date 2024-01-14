@@ -3,7 +3,7 @@
 - I studied architecture in university, worked as an architect for 9 years. <br>
   previous career archiving works 👉 https://1ncarnati0n.github.io
 - Now I'm looking for a new career as a data scientist and AI engineer.
-- *They(self) are nothing but a bundle or collection of different perceptions, which succeed each other with an inconceivable rapidity, and are in a perpetual flux and movement.*    "David Hume" 
+- *They(self) are nothing but a bundle or collection of different perceptions, which succeed each other with an inconceivable rapidity, and are in a perpetual flux and movement.*    -"David Hume"- 
 
 #### Contact
 
