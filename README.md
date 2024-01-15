@@ -1,4 +1,4 @@
-## 👋 반갑습니다! 건축🏛을 디자인해왔고, 이제는 AI🦾를 디자인하려 합니다
+## 👋 반갑습니다! 건축🏛을 디자인해 왔고, 이제는 AI🦾를 디자인하려 합니다
 
 - I studied Architecture in University, worked as an architect for 9 years. <br>
   previous career archiving works 👉 https://1ncarnati0n.github.io
