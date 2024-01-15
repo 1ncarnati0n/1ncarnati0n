@@ -3,7 +3,7 @@
 - I studied Architecture in University, worked as an architect for 9 years. <br>
   previous career archiving works 👉 https://1ncarnati0n.github.io
 - Now I'm looking for a new career as a data scientist and AI engineer.
-- *They(self) are nothing but a bundle or collection of different perceptions, which succeed each other with an inconceivable rapidity, and are in a perpetual flux and movement.*    -"David Hume"-
+- *They(self) are nothing but a bundle or collection of different perceptions, which succeed each other with an inconceivable rapidity, and are in a perpetual flux and movement.*  -"David Hume"-
 
 ### Contact
 
@@ -37,23 +37,25 @@
 
 <details>
 <summary> 🎓 Education ✏️ </summary>
-
+<br>
 
 - 🎓 Seoul National University of Science and Technology, Bachelor of Architecture : 2006.03 ~ 2014.02
-- 🎓 중소기업벤처사업부, AI 기술인력양성 YearDream School 3th : 2023.03 ~ 2023.12
+- 🎓 YearDream School 3th (중소기업벤처사업부, AI 기술인력양성 이어드림스쿨 3기 수료) : 2023.03 ~ 2023.12
 
 </details>
 
+<br>
+
 <details>
 <summary> ⚙️ Tech Stack 🛠 </summary>
+<br>
 
-
-![Python](https://img.shields.io/badge/Python-ffe74a.svg?style=flat&logo=Python&logoColor=blue) ![NumPy](https://img.shields.io/badge/NumPy-4d77cf.svg?style=flat&logo=NumPy&logoColor=4dabcf) ![Pandas](https://img.shields.io/badge/Pandas-130654.svg?style=flat&logo=Pandas&logoColor=whitle) ![opencv](https://img.shields.io/badge/OpenCV-63c1ff.svg?style=flat&logo=OpenCV&logoColor=black)
+![Python](https://img.shields.io/badge/Python-ffe74a.svg?style=flat&logo=Python&logoColor=blue) ![NumPy](https://img.shields.io/badge/NumPy-4d77cf.svg?style=flat&logo=NumPy&logoColor=4dabcf) ![Pandas](https://img.shields.io/badge/Pandas-130654.svg?style=flat&logo=Pandas&logoColor=whitle) 
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=flat&logo=Matplotlib&logoColor=white) ![Altair](https://img.shields.io/badge/Vega%20Altair-fbc234.svg?style=flat&logo=Vega%20Altair&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-262626.svg?style=flat&logo=Plotly&logoColor=white)
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F79939.svg?style=flat&logo=Scikit%20Learn&logoColor=3499CD) ![PyTorch](https://img.shields.io/badge/PyTorch-ffffff.svg?style=flat&logo=PyTorch&logoColor=EE4C2C)
 
-![Gradio](https://img.shields.io/badge/Gradio-FE7F01.svg?style=flat&logo=Gradio&logoColor=white) ![Streamlit](https://img.shields.io/badge/streamlit-white.svg?style=flat&logo=streamlit&logoColor=ff4b4b)
+![Gradio](https://img.shields.io/badge/Gradio-FE7F01.svg?style=flat&logo=Gradio&logoColor=white) ![Streamlit](https://img.shields.io/badge/streamlit-white.svg?style=flat&logo=streamlit&logoColor=ff4b4b) ![opencv](https://img.shields.io/badge/OpenCV-63c1ff.svg?style=flat&logo=OpenCV&logoColor=black)
 
 </details>
