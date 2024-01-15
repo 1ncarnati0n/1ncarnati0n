@@ -1,6 +1,6 @@
 ## 👋 반갑습니다! 건축🏛을 디자인해 왔고, 이제는 AI🦾를 디자인하려 합니다
 
-- I studied Architecture in University, worked as an architect for 9 years. `<br>`
+- I studied Architecture in University, worked as an architect for 9 years. <br>
   previous career archiving works 👉 https://1ncarnati0n.github.io
 - Now I'm looking for a new career as a data scientist and AI engineer.
 - *They(self) are nothing but a bundle or collection of different perceptions, which succeed each other with an inconceivable rapidity, and are in a perpetual flux and movement.*    -"David Hume"-
@@ -11,15 +11,15 @@
 
 ### Projects
 
-| Type        | Date       | Title                                                                              | Task                          | Result              | Host                                      |
-| ----------- | ---------- | ---------------------------------------------------------------------------------- | ----------------------------- | ------------------- | ----------------------------------------- |
-| Project     | May.23     | [**교육기업 결제데이터 EDA**](https://github.com/YearDream9jo/EDA_Project)      | Exploratory Data Analysis     | 우수 평가           | Day1company                               |
-| Competition | Jun.23     | ICR-Identifying Age-Related Conditions                                             | Binary Classification         | 🥉Bronze            | Kaggle `<br>` ( InVitro Cell Research ) |
-| Competition | Sep.23     | Forecasting 119 call volume                                                        | Time series prediction        | $5^{th}/60$       | AI CONNECT `<br>` ( Mind's&Company )    |
-| Competition | Sep~Oct.23 | Image-based product defect detection                                               | Image Classification          | $4^{th}/64$       | AI CONNECT `<br>` ( Mind's&Company )    |
-| Competition | Oct~Nov.23 | The challenge of generating natural English translations                           | Translation                   | $8^{th}/64$       | AI CONNECT `<br>` ( Mind's&Company )    |
-| Project     | Nov~Dec.23 | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo) | 영상 내 객체 및 로고 인페인팅 | 최종 우수 PJT 선정 | Mind's&Company,`<br>` 커넥트브릭        |
-| Competition | Jan.24     | Enefit-Predict Energy Behavior of Prosumers                                        | Time series prediction        | on-going            | Kaggle `<br>` ( Enefit )                |
+| Type        | Date       | Title                                                                              | Task                          | Result              | Host                                  |
+| ----------- | ---------- | ---------------------------------------------------------------------------------- | ----------------------------- | ------------------- | ------------------------------------- |
+| Project     | May.23     | [**교육기업 결제데이터 EDA**](https://github.com/YearDream9jo/EDA_Project)              | Exploratory Data Analysis     | 우수 평가              | Day1company                           |
+| Competition | Jun.23     | ICR-Identifying Age-Related Conditions                                             | Binary Classification         | 🥉Bronze            | Kaggle <br> ( InVitro Cell Research ) |
+| Competition | Sep.23     | Forecasting 119 call volume                                                        | Time series prediction        | $5^{th}/60$       | AI CONNECT <br> ( Mind's&Company )    |
+| Competition | Sep~Oct.23 | Image-based product defect detection                                               | Image Classification          | $4^{th}/64$       | AI CONNECT <br> ( Mind's&Company )    |
+| Competition | Oct~Nov.23 | The challenge of generating natural English translations                           | Translation                   | $8^{th}/64$       | AI CONNECT <br> ( Mind's&Company )    |
+| Project     | Nov~Dec.23 | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo)         | 영상 내 객체 및 로고 인페인팅        | 최종 우수 PJT 선정     | Mind's&Company, <br> 커넥트브릭        |
+| Competition | Jan.24     | Enefit-Predict Energy Behavior of Prosumers                                        | Time series prediction        | on-going            | Kaggle <br> ( Enefit )             |
 
 ### Paper Review
 
@@ -32,12 +32,12 @@
 > *Implement by PyTorch*
 
 
+
 ---
 
-
-
 <details>
-<summary> 🎓Education✏️ </summary>
+<summary> 🎓 **Education** ✏️ </summary>
+
 
 - 🎓 Seoul National University of Science and Technology, Bachelor of Architecture : 2006.03 ~ 2014.02
 - 🎓 중소기업벤처사업부, AI 기술인력양성 YearDream School 3th : 2023.03 ~ 2023.12
@@ -45,7 +45,8 @@
 </details>
 
 <details>
-<summary> ⚙️Tech Stack🛠 </summary>
+<summary> ⚙️ **Tech Stack** 🛠 </summary>
+
 
 ![Python](https://img.shields.io/badge/Python-ffe74a.svg?style=flat&logo=Python&logoColor=blue) ![NumPy](https://img.shields.io/badge/NumPy-4d77cf.svg?style=flat&logo=NumPy&logoColor=4dabcf) ![Pandas](https://img.shields.io/badge/Pandas-130654.svg?style=flat&logo=Pandas&logoColor=whitle) ![opencv](https://img.shields.io/badge/OpenCV-63c1ff.svg?style=flat&logo=OpenCV&logoColor=black)
 
