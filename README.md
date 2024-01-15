@@ -23,13 +23,13 @@
 
 ### Paper Review
 
-> - **VggNet**, 2014 | Very deep convolutional networks for large-scale image recognition
-> - **GoogLeNet**, 2014 | Going Deeper with Convolutions
-> - **ResNet**, 2015 | Deep Residual Learning for Image Recognition
-> - **Transformer**, 2017 | Attention is all you need
-> - **ViT**, 2020 | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
->
-> *Implement by PyTorch*
+- **VggNet**, 2014 | Very deep convolutional networks for large-scale image recognition
+- **GoogLeNet**, 2014 | Going Deeper with Convolutions
+- **ResNet**, 2015 | Deep Residual Learning for Image Recognition
+- **Transformer**, 2017 | Attention is all you need
+- **ViT**, 2020 | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+
+*Implement by PyTorch*
 
 
 
