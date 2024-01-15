@@ -11,15 +11,15 @@
 
 #### Projects
 
-| Type        | Date       | Title                                                                            | Task                          | Result           | Host                                |
-| ----------- | ---------- | -------------------------------------------------------------------------------- | ----------------------------- | ---------------- | ----------------------------------- |
-| Project     | May.23     | [**교육기업 결제데이터 EDA**](https://github.com/YearDream9jo/EDA_Project)            | Exploratory Data Analysis     | 우수 평가           | Day1company                         |
-| Competition | Jun.23     | ICR-Identifying Age-Related Conditions                                           | Binary Classification         | 🥉Bronze         | Kaggle <br> (InVitro Cell Research) |
-| Competition | Sep.23     | Forecasting 119 call volume                                                      | Time series prediction        | $5^{th}/60$      | AI CONNECT <br> (Mind's&Company)    |
-| Competition | Sep~Oct.23 | Image-based product defect detection                                             | Image Classification          | $4^{th}/64$      | AI CONNECT <br> (Mind's&Company)    |
-| Competition | Oct~Nov.23 | The challenge of generating natural English translations                         | Translation                   | $8^{th}/64$      | AI CONNECT <br> (Mind's&Company)    |
-| Project     | Nov~Dec.23 | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo)       | 영상 내 객체 및 로고 인페인팅        | 최종 우수 PJT 선정   | Mind's&Company, <br> 커넥트브릭        |
-| Competition | Jan.24     | Enefit-Predict Energy Behavior of Prosumers                                      | Time series prediction        | on-going         | Kaggle (Enefit)                     |
+| Type        | Date       | Title                                                                            | Task                          | Result           | Host                                  |
+| ----------- | ---------- | -------------------------------------------------------------------------------- | ----------------------------- | ---------------- | ------------------------------------- |
+| Project     | May.23     | [**교육기업 결제데이터 EDA**](https://github.com/YearDream9jo/EDA_Project)            | Exploratory Data Analysis     | 우수 평가           | Day1company                           |
+| Competition | Jun.23     | ICR-Identifying Age-Related Conditions                                           | Binary Classification         | 🥉Bronze         | Kaggle <br> ( InVitro Cell Research ) |
+| Competition | Sep.23     | Forecasting 119 call volume                                                      | Time series prediction        | $5^{th}/60$      | AI CONNECT <br> ( Mind's&Company )    |
+| Competition | Sep~Oct.23 | Image-based product defect detection                                             | Image Classification          | $4^{th}/64$      | AI CONNECT <br> ( Mind's&Company )    |
+| Competition | Oct~Nov.23 | The challenge of generating natural English translations                         | Translation                   | $8^{th}/64$      | AI CONNECT <br> ( Mind's&Company )    |
+| Project     | Nov~Dec.23 | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo)       | 영상 내 객체 및 로고 인페인팅        | 최종 우수 PJT 선정   | Mind's&Company, <br> 커넥트브릭          |
+| Competition | Jan.24     | Enefit-Predict Energy Behavior of Prosumers                                      | Time series prediction        | on-going         | Kaggle <br> ( Enefit )                |
 
 #### Paper Review
 
