@@ -36,7 +36,7 @@
 ---
 
 <details>
-<summary> 🎓 **Education** ✏️ </summary>
+<summary> 🎓 Education ✏️ </summary>
 
 
 - 🎓 Seoul National University of Science and Technology, Bachelor of Architecture : 2006.03 ~ 2014.02
@@ -45,7 +45,7 @@
 </details>
 
 <details>
-<summary> ⚙️ **Tech Stack** 🛠 </summary>
+<summary> ⚙️ Tech Stack 🛠 </summary>
 
 
 ![Python](https://img.shields.io/badge/Python-ffe74a.svg?style=flat&logo=Python&logoColor=blue) ![NumPy](https://img.shields.io/badge/NumPy-4d77cf.svg?style=flat&logo=NumPy&logoColor=4dabcf) ![Pandas](https://img.shields.io/badge/Pandas-130654.svg?style=flat&logo=Pandas&logoColor=whitle) ![opencv](https://img.shields.io/badge/OpenCV-63c1ff.svg?style=flat&logo=OpenCV&logoColor=black)
