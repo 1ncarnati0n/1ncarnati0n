@@ -7,10 +7,10 @@
 <br>
 <br>
 
-<h4 align="center" >
+<h3 align="center" >
 👋 반갑습니다! 건축🏛을 디자인해 왔고, 이제는 AI🦾를 디자인하려 합니다. <br>
 Hi, I've been designing architectures, Now I'm trying to design AI.
-</h4>
+</h3>
 
 <br>
 
