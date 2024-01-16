@@ -1,7 +1,7 @@
 
 <p align="center" >
 <i> They(self) are nothing but a bundle or collection of different perceptions. <br>
-자아는 인식의 다발이다. </i> &emsp; - "David Hume" -
+자아는 그저 인식의 다발이다. </i> &emsp; - "David Hume" -
 </p>
 
 <br>
