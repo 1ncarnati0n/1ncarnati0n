@@ -3,7 +3,7 @@
 - I studied Architecture in University, worked as an architect for 9 years. <br>
   previous career archiving works 👉 https://1ncarnati0n.github.io
 - Now I'm looking for a new career as a data scientist and AI engineer.
-- *They(self) are nothing but a bundle or collection of different perceptions, which succeed each other with an inconceivable rapidity, and are in a perpetual flux and movement.*  -"David Hume"-
+- *They(self) are nothing but a bundle or collection of different perceptions, which succeed each other with an inconceivable rapidity, and are in a perpetual flux and movement.*     - "David Hume" -
 
 ### Contact
 
@@ -22,7 +22,7 @@
 | Project     | 23.11~12  | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo)  | 영상 내 객체 및 로고 인페인팅      | 최종 우수 PJT 선정  | Mind's&Company, <br> 커넥트브릭        |
 | Competition | 24.01     | Enefit-Predict Energy Behavior of Prosumers                                  | Time series prediction        | on-going         | Kaggle <br> ( Enefit )                |
 
-### Paper Revie
+### Paper Review
 
 - **VggNet**, 2014 | Very deep convolutional networks for large-scale image recognition
 - **GoogLeNet**, 2014 | Going Deeper with Convolutions
