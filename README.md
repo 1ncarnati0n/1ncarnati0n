@@ -20,7 +20,6 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 - Strive to think in terms of scientific thinking and empiricism.
 - I used to enjoy reading philosophy books.
 - I want to see the world from the shoulders of The great giants.
-  
 - **Email** : pattern.langue@gmail.com
 
 <br>
