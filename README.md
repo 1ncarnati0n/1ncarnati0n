@@ -39,7 +39,7 @@
 <summary> 🎓 Education ✏️ </summary>
 <br>
 
-- 🎓 Seoul National University of Science and Technology, Bachelor of Architecture : 2006.03 ~ 2014.02
+- 🎓 Seoul National University of Science and Technology, Bachelor of Architecture (5years) : 2006.03 ~ 2014.02
 - 🎓 YearDream School 3th (중소기업벤처사업부, AI 기술인력양성 이어드림스쿨 3기 수료) : 2023.03 ~ 2023.12
 
 </details>
