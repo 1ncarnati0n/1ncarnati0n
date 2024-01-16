@@ -17,6 +17,9 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 ## 🧑🏻‍💻 About Me
 
 - Now I'm looking for a new career as a data scientist and AI engineer.
+- Strive to think in terms of scientific thinking and empiricism.
+- I used to enjoy reading philosophy books.
+- 
 - **Email** : pattern.langue@gmail.com
 
 <br>
