@@ -1,17 +1,16 @@
 
 <p align="center" >
-<i>They(self) are nothing but a bundle or collection of different perceptions. <br>
-자아는 인식의 다발이다. </i> - "David Hume" -
+<i> They(self) are nothing but a bundle or collection of different perceptions. <br>
+자아는 인식의 다발이다. </i> &emsp; - "David Hume" -
 </p>
 
-
 <br>
 <br>
 
-<center>
+<h4 align="center" >
 👋 반갑습니다! 건축🏛을 디자인해 왔고, 이제는 AI🦾를 디자인하려 합니다. <br>
 Hi, I've been designing architectures, Now I'm trying to design AI.
-</center>
+</h4>
 
 <br>
 
@@ -29,7 +28,6 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 - 🎓 Completed Data Science Track at Year-Dream School(Korea SMEs and Startups Agency) 3th: 2023.03 ~ 12
 
 <br>
-
 
 ## 🎯 Projects
 
@@ -69,7 +67,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 <details>
 <summary> ⚙️ </summary>
 
-<center>
+<div align="center" >
 
 ![Python](https://img.shields.io/badge/Python-ffe74a.svg?style=flat&logo=Python&logoColor=blue) ![Jupyter](https://img.shields.io/badge/jupyter-F37627.svg?style=flat&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-4d77cf.svg?style=flat&logo=NumPy&logoColor=4dabcf) ![Pandas](https://img.shields.io/badge/Pandas-130654.svg?style=flat&logo=Pandas&logoColor=whitle) ![colab](https://img.shields.io/badge/Google%20Colab-white.svg?style=flat&logo=Google%20Colab&logoColor=F9AA00)
 
@@ -83,6 +81,6 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 
 ![Rhino3D](https://img.shields.io/badge/Rhinoceros-363636.svg?style=flat&logo=Rhinoceros&logoColor=white) ![revit](https://img.shields.io/badge/Autodesk%20Revit-176AFF.svg?style=flat&logo=Autodesk%20Revit&logoColor=white)
 
-</center>
+</div>
 
 </details>
