@@ -19,7 +19,8 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 - Now I'm looking for a new career as a data scientist and AI engineer.
 - Strive to think in terms of scientific thinking and empiricism.
 - I used to enjoy reading philosophy books.
-- 
+- I want to see the world from the shoulders of The great giants.
+  
 - **Email** : pattern.langue@gmail.com
 
 <br>
@@ -50,8 +51,6 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 
 </details>
 
-<br>
-
 ## 📝 Paper review
 <details>
 <summary> 📂 </summary>
@@ -63,8 +62,6 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 
 *Implement by PyTorch*
 </details>
-
-<br>
 
 ## 🛠 Tech Stack
 <details>
