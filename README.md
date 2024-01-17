@@ -39,7 +39,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 | ----------- | --------- | ---------------------------------------------------------------------------- | --------------------------- | ---------------- | ----------------------------------- |
 | Project     | 23.05     | [**교육기업 결제데이터 EDA**](https://github.com/YearDream9jo/EDA_Project)       | Exploratory Data Analysis   | 우수 평가         | Day1company                          |
 | Competition | 23.06     | ICR-Identifying Age-Related Conditions                                       | Binary Classification       | 🥉Bronze         | Kaggle              |
-| Project     | 23.07     | [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA)    | Computational Design        | [Link](assets/result.gif) | Own Project        |
+| Project     | 23.07     | [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA)    | Computational Design        | [Link](https://github.com/1ncarnati0n/makingDLA?tab=readme-ov-file#result-simulation) | Own Project        |
 | Competition | 23.09     | 119 신고 접수량 예측                                                             | Time series prediction      | $5^{th}/60$      | AI CONNECT <br> (Mind's&Company)   |
 | Competition | 23.09~10  | 이미지 기반 제품 결함 탐지                                                         | Image Classification        | $4^{th}/64$      | AI CONNECT <br> (Mind's&Company)   |
 | Competition | 23.10~11  | 자연스러운 영한 번역문 생성 과제                                                     | Translation                 | $8^{th}/64$      | AI CONNECT <br> (Mind's&Company)   |
