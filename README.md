@@ -30,8 +30,6 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 - 👷‍♂️ Worked as an architect for 9 years. 👉 https://1ncarnati0n.github.io
 - 🎓 Completed Data Science Track at Year-Dream School(Korea SMEs and Startups Agency) 3th: 2023.03 ~ 12
 
-<br>
-
 ## 🎯 Projects
 
 <details>
@@ -63,10 +61,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 </details>
 
 ## 🛠 Tech Stack
-<details>
-<summary> ⚙️ </summary>
-
-<div align="center" >
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-ffe74a.svg?style=flat&logo=Python&logoColor=blue) ![Jupyter](https://img.shields.io/badge/jupyter-F37627.svg?style=flat&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-4d77cf.svg?style=flat&logo=NumPy&logoColor=4dabcf) ![Pandas](https://img.shields.io/badge/Pandas-130654.svg?style=flat&logo=Pandas&logoColor=whitle) ![colab](https://img.shields.io/badge/Google%20Colab-white.svg?style=flat&logo=Google%20Colab&logoColor=F9AA00)
 
@@ -79,7 +74,4 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 ![git](https://img.shields.io/badge/Git-F37627.svg?style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)
 
 ![Rhino3D](https://img.shields.io/badge/Rhinoceros-363636.svg?style=flat&logo=Rhinoceros&logoColor=white) ![revit](https://img.shields.io/badge/Autodesk%20Revit-176AFF.svg?style=flat&logo=Autodesk%20Revit&logoColor=white)
-
 </div>
-
-</details>
