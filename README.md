@@ -35,15 +35,15 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 <details>
 <summary> 📂📂📂📂📂📂📂 <i> ( Click Open ) </i> </summary>
 
-| Type        | Date     | Title                                                              | Task                      | Result         | Host              |
-| ----------- | -------- | ------------------------------------------------------------------ | ------------------------- | -------------- | ----------------- |
+| Type        | Date     | Title                                                               | Task                      | Result         | Host              |
+| ----------- | -------- | ------------------------------------------------------------------- | ------------------------- | -------------- | ----------------- |
 | Project     | 23.05    | [교육기업 결제데이터 EDA](https://github.com/YearDream9jo/EDA_Project) | Exploratory Data Analysis | 우수 평가 | Day1company |
 | Competition | 23.06    | [**ICR-Identifying Age-Related Conditions**](https://github.com/1ncarnati0n/Kaggle_ICR) | Binary Classification | 🥉Bronze | Kaggle |
 | Project     | 23.08    | [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA) | Computational Design | Implement | Own Project |
-| Competition | 23.09    | [119 신고 접수량 예측](https://github.com/1ncarnati0n/predict119call) | Time Series Prediction | $5^{th}/60$[🔗](https://aiconnect.kr/competition/detail/231/task/303/leaderboard) | AI CONNECT <br> (Mind's&Company) |
-| Competition | 23.09~10 | 이미지 기반 제품 결함 탐지 | Image Classification | $4^{th}/64$[🔗](https://aiconnect.kr/competition/detail/232/task/305/leaderboard) | AI CONNECT <br> (Mind's&Company) |
-| Competition | 23.10~11 | 자연스러운 영한 번역문 생성 과제 | Translation | $8^{th}/64$ | AI CONNECT <br> (Mind's&Company) |
-| Project     | 23.11~12 | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo) | 영상 내 객체 및 로고 인페인팅 | 최종 **우수 PJT 선정** | Mind's&Company, <br> 커넥트브릭 |
+| Competition | 23.09    | [119 신고 접수량 예측](https://github.com/1ncarnati0n/predict119call) | Time Series Prediction | $5^{th}/60$ | AI CONNECT <br> (Mind's&Company) |
+| Competition | 23.09~10 | [이미지 기반 제품 결함 탐지]() | Image Classification | $4^{th}/64$ | AI CONNECT <br> (Mind's&Company) |
+| Competition | 23.10~11 | [자연스러운 영한 번역문 생성 과제]() | Translation | $8^{th}/64$ | AI CONNECT <br> (Mind's&Company) |
+| Project     | 23.11~12 | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo) | 영상 내 객체 및 로고 인페인팅 | 최종 **우수PJT 선정** | Mind's&Company, <br> 커넥트브릭 |
 | Competition | 24.01    | Enefit-Predict Energy Behavior of Prosumers | Time Series Prediction | on-going | Kaggle |
 
 </details>
