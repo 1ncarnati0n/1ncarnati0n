@@ -33,7 +33,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 ## 🎯 Projects
 
 <details>
-<summary> 📂📂📂📂📂📂📂 </summary>
+<summary> 📂📂📂📂📂📂📂 <text style="font-style:italic"> ( Click Open ) </text> </summary>
 
 | Type        | Date     | Title                                                              | Task                      | Result         | Host              |
 | ----------- | -------- | ------------------------------------------------------------------ | ------------------------- | -------------- | ----------------- |
