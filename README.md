@@ -55,7 +55,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 ## 📝 Paper review
 
 <details>
-<summary> 📂📂📂📂 </summary>
+<summary> 📃📃📃📃 </summary>
 
 - **VggNet**, 2014 **|** Very deep convolutional networks for large-scale image recognition
 - **GoogLeNet**, 2014 **|** Going Deeper with Convolutions
