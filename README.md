@@ -32,12 +32,14 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 
 ## 🎯 Projects
 
+<!-- 
 <details>
-<summary> 📂📂📂📂📂📂📂 <i> ( Click Open ) </i> </summary>
+<summary> 📂📂📂📂📂📂📂 <i> ( Click Open ) </i> </summary> 
+-->
 
 | Type        | Date     | Title                                                               | Task                      | Result         | Host              |
 | ----------- | -------- | ------------------------------------------------------------------- | ------------------------- | -------------- | ----------------- |
-| Project     | 23.05    | [교육기업 결제데이터 EDA](https://github.com/YearDream9jo/EDA_Project) | Exploratory Data Analysis | 우수 평가 | Day1company |
+| Project     | 23.05    | [교육기업 결제데이터 EDA](https://github.com/YearDream9jo/EDA_Project) | Exploratory Data Analysis | 우수 평가 | Day1Company |
 | Competition | 23.06    | [**ICR-Identifying Age-Related Conditions**](https://github.com/1ncarnati0n/Kaggle_ICR) | Binary Classification | 🥉Bronze | Kaggle |
 | Project     | 23.08    | [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA) | Computational Design | Implement | Own Project |
 | Competition | 23.09    | [119 신고 접수량 예측](https://github.com/1ncarnati0n/predict119call) | Time Series Prediction | $5^{th}/60$ | AI CONNECT <br> (Mind's&Company) |
@@ -46,7 +48,9 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 | Project     | 23.11~12 | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo) | 영상 내 객체 및 로고 인페인팅 | 최종 **우수PJT 선정** | Mind's&Company, <br> 커넥트브릭 |
 | Competition | 24.01    | Enefit-Predict Energy Behavior of Prosumers | Time Series Prediction | on-going | Kaggle |
 
-</details>
+<!-- 
+</details> 
+-->
 
 ## 📝 Paper review
 
@@ -58,7 +62,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 - **ResNet**, 2015 **|** Deep Residual Learning for Image Recognition
 - **Transformer**, 2017 **|** Attention is all you need
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌 *Implement by PyTorch*
+&nbsp;&nbsp;&nbsp; 📌 *Implement by PyTorch*
 </details>
 
 ## 🛠 Tech Stack
