@@ -36,7 +36,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 <summary> 📂📂📂📂📂📂📂 </summary>
 
 | Type        | Date     | Title                                                              | Task                      | Result         | Host              |
-| ----------- | -------- | -----------------------------------------------------------------  | ------------------------- | -------------- | ----------------- |
+| ----------- | -------- | ------------------------------------------------------------------ | ------------------------- | -------------- | ----------------- |
 | Project     | 23.05    | [교육기업 결제데이터 EDA](https://github.com/YearDream9jo/EDA_Project) | Exploratory Data Analysis | 우수 평가 | Day1company |
 | Competition | 23.06    | [**ICR-Identifying Age-Related Conditions**](https://github.com/1ncarnati0n/Kaggle_ICR) | Binary Classification | 🥉Bronze | Kaggle |
 | Project     | 23.08    | [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA) | Computational Design | Implement | Own Project |
@@ -58,7 +58,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 - **ResNet**, 2015 **|** Deep Residual Learning for Image Recognition
 - **Transformer**, 2017 **|** Attention is all you need
 
-*Implement by PyTorch*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌 *Implement by PyTorch*
 </details>
 
 ## 🛠 Tech Stack
