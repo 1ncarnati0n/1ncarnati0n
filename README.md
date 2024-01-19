@@ -27,7 +27,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 ## 🧗🏻 Careers
 
 - 🎓 Seoul National University of Science and Technology, Bachelor of Architecture (5year): 2006.03 ~ 2014.02
-- 👷‍♂️ Worked as an architect for 9 years. 👉 https://1ncarnati0n.github.io
+- 👷‍♂️ I've been worked as an architect for 9 years. 👉 https://1ncarnati0n.github.io
 - 🎓 Completed Data Science Track at Year-Dream School(Korea SMEs and Startups Agency) 3th: 2023.03 ~ 12
 
 ## 🎯 Projects
@@ -38,13 +38,13 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 | Type        | Date      | Title                                                                        | Task                        | Result           | Host                                |
 | ----------- | --------- | ---------------------------------------------------------------------------- | --------------------------- | ---------------- | ----------------------------------- |
 | Project     | 23.05     | [**교육기업 결제데이터 EDA**](https://github.com/YearDream9jo/EDA_Project)       | Exploratory Data Analysis   | 우수 평가         | Day1company                          |
-| Competition | 23.06     | ICR-Identifying Age-Related Conditions                                       | Binary Classification       | 🥉Bronze         | Kaggle              |
-| Project     | 23.07     | [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA)    | Computational Design        | Implement        | Own Project |
-| Competition | 23.09     | 119 신고 접수량 예측                                                             | Time series prediction      | $5^{th}/60$      | AI CONNECT <br> (Mind's&Company)   |
+| Competition | 23.06     | [**ICR-Identifying Age-Related Conditions**](https://github.com/1ncarnati0n/Kaggle_ICR) | Binary Classification       | 🥉Bronze         | Kaggle              |
+| Project     | 23.08     | [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA)    | Computational Design        | Implement | Own Project                          |
+| Competition | 23.09     | 119 신고 접수량 예측 | Time Series Prediction      | $5^{th}/60$      | AI CONNECT <br> (Mind's&Company)   |
 | Competition | 23.09~10  | 이미지 기반 제품 결함 탐지                                                         | Image Classification        | $4^{th}/64$      | AI CONNECT <br> (Mind's&Company)   |
 | Competition | 23.10~11  | 자연스러운 영한 번역문 생성 과제                                                     | Translation                 | $8^{th}/64$      | AI CONNECT <br> (Mind's&Company)   |
 | Project     | 23.11~12  | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo) | 영상 내 객체 및 로고 인페인팅    | 최종 우수 PJT 선정  | Mind's&Company, <br> 커넥트브릭        |
-| Competition | 24.01     | Enefit-Predict Energy Behavior of Prosumers                                  | Time series prediction      | on-going         | Kaggle               |
+| Competition | 24.01     | Enefit-Predict Energy Behavior of Prosumers                                  | Time Series Prediction      | on-going         | Kaggle |
 
 </details>
 
@@ -72,7 +72,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 
 ![Gradio](https://img.shields.io/badge/Gradio-FE7F01.svg?style=flat&logo=Gradio&logoColor=white) ![Streamlit](https://img.shields.io/badge/streamlit-white.svg?style=flat&logo=streamlit&logoColor=ff4b4b) ![opencv](https://img.shields.io/badge/OpenCV-63c1ff.svg?style=flat&logo=OpenCV&logoColor=black)
 
-![kaggle](https://img.shields.io/badge/kaggle-1EBEFF.svg?style=flat&logo=kaggle&logoColor=white)
+![kaggle](https://img.shields.io/badge/kaggle-1EBEFF.svg?style=flat&logo=kaggle&logoColor=white) ![huggigface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white.svg?style=flatlogo=%F0%9F%A4%97%20Hugging%20Face&logoColor=white)
 
 ![git](https://img.shields.io/badge/Git-F37627.svg?style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)
 
