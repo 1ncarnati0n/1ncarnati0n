@@ -35,27 +35,28 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 <details>
 <summary> 📂📂📂📂📂📂📂 </summary>
 
-| Type        | Date      | Title                                                                        | Task                        | Result           | Host                                |
-| ----------- | --------- | ---------------------------------------------------------------------------- | --------------------------- | ---------------- | ----------------------------------- |
-| Project     | 23.05     | [**교육기업 결제데이터 EDA**](https://github.com/YearDream9jo/EDA_Project)       | Exploratory Data Analysis   | 우수 평가         | Day1company                          |
-| Competition | 23.06     | [**ICR-Identifying Age-Related Conditions**](https://github.com/1ncarnati0n/Kaggle_ICR) | Binary Classification       | 🥉Bronze         | Kaggle              |
-| Project     | 23.08     | [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA)    | Computational Design        | Implement | Own Project                          |
-| Competition | 23.09     | 119 신고 접수량 예측 | Time Series Prediction      | $5^{th}/60$      | AI CONNECT <br> (Mind's&Company)   |
-| Competition | 23.09~10  | 이미지 기반 제품 결함 탐지                                                         | Image Classification        | $4^{th}/64$      | AI CONNECT <br> (Mind's&Company)   |
-| Competition | 23.10~11  | 자연스러운 영한 번역문 생성 과제                                                     | Translation                 | $8^{th}/64$      | AI CONNECT <br> (Mind's&Company)   |
-| Project     | 23.11~12  | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo) | 영상 내 객체 및 로고 인페인팅    | 최종 우수 PJT 선정  | Mind's&Company, <br> 커넥트브릭        |
-| Competition | 24.01     | Enefit-Predict Energy Behavior of Prosumers                                  | Time Series Prediction      | on-going         | Kaggle |
+| Type        | Date     | Title                                                              | Task                      | Result         | Host              |
+| ----------- | -------- | -----------------------------------------------------------------  | ------------------------- | -------------- | ----------------- |
+| Project     | 23.05    | [교육기업 결제데이터 EDA](https://github.com/YearDream9jo/EDA_Project) | Exploratory Data Analysis | 우수 평가 | Day1company |
+| Competition | 23.06    | [**ICR-Identifying Age-Related Conditions**](https://github.com/1ncarnati0n/Kaggle_ICR) | Binary Classification | 🥉Bronze | Kaggle |
+| Project     | 23.08    | [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA) | Computational Design | Implement | Own Project |
+| Competition | 23.09    | 119 신고 접수량 예측 | Time Series Prediction | $5^{th}/60$ | AI CONNECT <br> (Mind's&Company) |
+| Competition | 23.09~10 | 이미지 기반 제품 결함 탐지 | Image Classification | $4^{th}/64$ | AI CONNECT <br> (Mind's&Company) |
+| Competition | 23.10~11 | 자연스러운 영한 번역문 생성 과제 | Translation | $8^{th}/64$ | AI CONNECT <br> (Mind's&Company) |
+| Project     | 23.11~12 | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo) | 영상 내 객체 및 로고 인페인팅 | 최종 **우수 PJT 선정** | Mind's&Company, <br> 커넥트브릭 |
+| Competition | 24.01    | Enefit-Predict Energy Behavior of Prosumers | Time Series Prediction | on-going | Kaggle |
 
 </details>
 
 ## 📝 Paper review
+
 <details>
 <summary> 📂📂📂📂 </summary>
 
-- **VggNet**, 2014 | Very deep convolutional networks for large-scale image recognition
-- **GoogLeNet**, 2014 | Going Deeper with Convolutions
-- **ResNet**, 2015 | Deep Residual Learning for Image Recognition
-- **Transformer**, 2017 | Attention is all you need
+- **VggNet**, 2014 **|** Very deep convolutional networks for large-scale image recognition
+- **GoogLeNet**, 2014 **|** Going Deeper with Convolutions
+- **ResNet**, 2015 **|** Deep Residual Learning for Image Recognition
+- **Transformer**, 2017 **|** Attention is all you need
 
 *Implement by PyTorch*
 </details>
@@ -64,18 +65,30 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-ffe74a.svg?style=flat&logo=Python&logoColor=blue) ![NumPy](https://img.shields.io/badge/NumPy-4d77cf.svg?style=flat&logo=NumPy&logoColor=4dabcf) ![Pandas](https://img.shields.io/badge/Pandas-130654.svg?style=flat&logo=Pandas&logoColor=whitle) ![Jupyter](https://img.shields.io/badge/Jupyter-F37627.svg?style=flat&logo=Jupyter&logoColor=white) ![colab](https://img.shields.io/badge/Google%20Colab-white.svg?style=flat&logo=Google%20Colab&logoColor=F9AA00)
+![Python](https://img.shields.io/badge/Python-ffe74a.svg?style=flat&logo=Python&logoColor=blue) 
+![NumPy](https://img.shields.io/badge/NumPy-4d77cf.svg?style=flat&logo=NumPy&logoColor=4dabcf) 
+![Pandas](https://img.shields.io/badge/Pandas-130654.svg?style=flat&logo=Pandas&logoColor=whitle) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37627.svg?style=flat&logo=Jupyter&logoColor=white) 
+![colab](https://img.shields.io/badge/Google%20Colab-white.svg?style=flat&logo=Google%20Colab&logoColor=F9AA00)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=flat&logo=Matplotlib&logoColor=white) ![Altair](https://img.shields.io/badge/Vega%20Altair-fbc234.svg?style=flat&logo=Vega%20Altair&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-262626.svg?style=flat&logo=Plotly&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=flat&logo=Matplotlib&logoColor=white) 
+![Altair](https://img.shields.io/badge/Vega%20Altair-fbc234.svg?style=flat&logo=Vega%20Altair&logoColor=black) 
+![Plotly](https://img.shields.io/badge/Plotly-262626.svg?style=flat&logo=Plotly&logoColor=white) 
 
-![ScikitLearn](https://img.shields.io/badge/Scikit%20Learn-F79939.svg?style=flat&logo=Scikit%20Learn&logoColor=3499CD) ![PyTorch](https://img.shields.io/badge/PyTorch-ffffff.svg?style=flat&logo=PyTorch&logoColor=EE4C2C)
+![ScikitLearn](https://img.shields.io/badge/Scikit%20Learn-F79939.svg?style=flat&logo=Scikit%20Learn&logoColor=3499CD) 
+![PyTorch](https://img.shields.io/badge/PyTorch-ffffff.svg?style=flat&logo=PyTorch&logoColor=EE4C2C)
 
-![Gradio](https://img.shields.io/badge/Gradio-FE7F01.svg?style=flat&logo=Gradio&logoColor=white) ![Streamlit](https://img.shields.io/badge/streamlit-white.svg?style=flat&logo=streamlit&logoColor=ff4b4b) ![opencv](https://img.shields.io/badge/OpenCV-63c1ff.svg?style=flat&logo=OpenCV&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-FE7F01.svg?style=flat&logo=Gradio&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/streamlit-white.svg?style=flat&logo=streamlit&logoColor=ff4b4b) 
+![opencv](https://img.shields.io/badge/OpenCV-63c1ff.svg?style=flat&logo=OpenCV&logoColor=black)
 
-![kaggle](https://img.shields.io/badge/kaggle-1EBEFF.svg?style=flat&logo=kaggle&logoColor=white) ![huggigface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white.svg?style=flatlogo=%F0%9F%A4%97%20Hugging%20Face&logoColor=white)
+![kaggle](https://img.shields.io/badge/kaggle-1EBEFF.svg?style=flat&logo=kaggle&logoColor=white) 
+![huggigface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white.svg?style=flatlogo=%F0%9F%A4%97%20Hugging%20Face&logoColor=white)
 
-![git](https://img.shields.io/badge/Git-F37627.svg?style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)
+![git](https://img.shields.io/badge/Git-F37627.svg?style=flat&logo=Git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)
 
-![Rhino3D](https://img.shields.io/badge/Rhinoceros-363636.svg?style=flat&logo=Rhinoceros&logoColor=white) ![revit](https://img.shields.io/badge/Autodesk%20Revit-176AFF.svg?style=flat&logo=Autodesk%20Revit&logoColor=white)
+![Rhino3D](https://img.shields.io/badge/Rhinoceros-363636.svg?style=flat&logo=Rhinoceros&logoColor=white) 
+![revit](https://img.shields.io/badge/Autodesk%20Revit-176AFF.svg?style=flat&logo=Autodesk%20Revit&logoColor=white)
 
 </div>
