@@ -17,11 +17,11 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 ## 🧑🏻‍💻 About Me
 
 - Now I'm looking for a new career as a data scientist and AI engineer.
-- Strive to think in terms of scientific thinking and empiricism.
+- I strive to think in terms of scientific thinking and empiricism.
 - I used to enjoy reading philosophy books.
 - I want to see the world from the shoulders of The Great giants.
 - **Email** : pattern.langue@gmail.com
-
+- **Linkedin** : [🔗](https://www.linkedin.com/in/%EC%9B%85%EC%A7%84-%EB%B3%80-160aa3228/)
 <br>
 
 ## 🧗🏻 Careers
@@ -62,7 +62,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 - **ResNet**, 2015 **|** Deep Residual Learning for Image Recognition
 - **Transformer**, 2017 **|** Attention is all you need
 
-&nbsp;&nbsp;&nbsp; 📌 *Implement by PyTorch*
+&nbsp;&nbsp; 📌 *Implement by PyTorch*
 </details>
 
 ## 🛠 Tech Stack
