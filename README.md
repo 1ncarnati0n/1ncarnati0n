@@ -1,4 +1,3 @@
-
 <p align="center" >
 <i> They(self) are nothing but a bundle or collection of different perceptions. <br>
 자아는 그저 인식의 다발이다. </i> &emsp; - "David Hume" -
@@ -46,7 +45,6 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 | Competition | 23.09~10 | [이미지 기반 제품결함 탐지](https://github.com/1ncarnati0n/ClassifyImages) | Image Classification | $4^{th}/64$ | AI CONNECT <br> 마인즈앤컴퍼니 |
 | Competition | 23.10~11 | [자연스러운 영한번역문 생성](https://github.com/1ncarnati0n/eng2korNaturally) | Translation | $8^{th}/64$ | AI CONNECT <br> 마인즈앤컴퍼니 |
 | Project     | 23.11~12 | [**StartUp 기업연계 프로젝트**](https://github.com/1ncarnati0n/inpaintingVideo) | 영상 내 객체 및 로고 인페인팅 | 최우수 PJT 선정 & 발표 | 마인즈앤컴퍼니, <br> 커넥트브릭 |
-| Competition | 24.01    | Enefit-Predict Energy Behavior of Prosumers | Time Series Prediction | on-going | Kaggle |
 
 <!-- 
 </details> 
