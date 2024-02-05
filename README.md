@@ -21,13 +21,14 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 - I want to see the world from the shoulders of The Great giants.
 - **Email** : pattern.langue@gmail.com
 - **Linkedin** : [🔗](https://www.linkedin.com/in/%EC%9B%85%EC%A7%84-%EB%B3%80-160aa3228/)
-<br>
 
 ## 🧗🏻 Careers
 
 - 🎓 Seoul National University of Science and Technology, Bachelor of Architecture (5year): 2006.03 ~ 2014.02
 - 👷‍♂️ I've been worked as an architect for 9 years. 👉 https://1ncarnati0n.github.io
 - 🎓 Completed Data Science Track at Year-Dream School(Korea SMEs and Startups Agency) 3th: 2023.03 ~ 12
+
+<br>
 
 ## 🎯 Projects
 
