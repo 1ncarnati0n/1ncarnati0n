@@ -15,7 +15,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 
 ## 🧑🏻‍💻 About Me
 
-- Now I'm looking for a new career as a data scientist and AI engineer.
+- Now I'm looking for a new career as a Data Scientist and ML, AI engineer.
 - I strive to think in terms of scientific thinking and empiricism.
 - I used to enjoy reading philosophy books.
 - I want to see the world from the shoulders of The Great giants.
