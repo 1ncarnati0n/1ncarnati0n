@@ -25,7 +25,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 ## 🧗🏻 Careers
 
 - 🎓 Seoul National University of Science and Technology, Bachelor of Architecture (5year): 2006.03 ~ 2014.02
-- 👷‍♂️ I've been worked as an architect for 9 years. 👉 https://1ncarnati0n.github.io
+- 👷‍♂️ I've been worked as an architect for 8 years. 👉 https://1ncarnati0n.github.io
 - 🎓 Completed Data Science Track at Year-Dream School(Korea SMEs and Startups Agency) 3th: 2023.03 ~ 12
 
 <br>
