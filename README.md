@@ -30,7 +30,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 
 <br>
 
-## 🎯 Projects
+## 🎯 ML/DL Projects
 
 <!-- 
 <details>
@@ -95,3 +95,13 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 ![revit](https://img.shields.io/badge/Autodesk%20Revit-176AFF.svg?style=flat&logo=Autodesk%20Revit&logoColor=white)
 
 </div>
+
+<br>
+
+## 🖋 Computational Design Projects
+| Title                                                               | Task                      | Description     |
+| ------------------------------------------------------------------- | ------------------------- | ----------------- |
+| [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA) | Computational Design | Python 언어를 이용 그래스호퍼를 통해 브라운운동 구현하기|
+| [Grasshopper mini works](https://github.com/1ncarnati0n/RhinoGrasshopperPython) | Computational Design | Grasshopper 모델링 미니 프로젝트 모음 |
+| [Optimising Paneling with Machine Learning]() | Computational Design | 머신러닝 알고리즘을 활용한 패널링 패턴 최적화 프로젝트 |
+
