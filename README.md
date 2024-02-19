@@ -41,7 +41,6 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 | ----------- | -------- | ------------------------------------------------------------------- | ------------------------- | -------------- | ----------------- |
 | Project     | 23.05    | [교육기업 결제데이터 EDA](https://github.com/1ncarnati0n/EDAdayOne) | Exploratory Data Analysis | 우수 평가 | Day1Company |
 | Competition | 23.06    | [**ICR-Identifying Age-Related Conditions**](https://github.com/1ncarnati0n/Kaggle_ICR) | Binary Classification | Bronze🥉 | Kaggle |
-| Project     | 23.08    | [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA) | Computational Design | Implement | Own Project |
 | Competition | 23.09    | [119신고 접수량 예측](https://github.com/1ncarnati0n/predict119call) | Time Series Prediction | $5^{th}/60$ | AI CONNECT <br> 마인즈앤컴퍼니 |
 | Competition | 23.09~10 | [이미지 기반 제품결함 탐지](https://github.com/1ncarnati0n/ClassifyImages) | Image Classification | $4^{th}/64$ | AI CONNECT <br> 마인즈앤컴퍼니 |
 | Competition | 23.10~11 | [자연스러운 영한번역문 생성](https://github.com/1ncarnati0n/eng2korNaturally) | Translation | $8^{th}/64$ | AI CONNECT <br> 마인즈앤컴퍼니 |
@@ -101,7 +100,7 @@ Hi, I've been designing architectures, Now I'm trying to design AI.
 ## 🖋 Computational Design Projects
 | Title                                                               | Task                      | Description     |
 | ------------------------------------------------------------------- | ------------------------- | ----------------- |
-| [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA) | Computational Design | Python 언어를 이용 그래스호퍼를 통해 브라운운동 구현하기|
+| [Diffusion Limited Aggregation](https://github.com/1ncarnati0n/makingDLA) | Computational Design | Python 언어를 이용 그래스호퍼를 통해 브라운운동 구현|
 | [Grasshopper mini works](https://github.com/1ncarnati0n/RhinoGrasshopperPython) | Computational Design | Grasshopper 모델링 미니 프로젝트 모음 |
 | [Optimising Paneling with Machine Learning]() | Computational Design | 머신러닝 알고리즘을 활용한 패널링 패턴 최적화 프로젝트 |
 
