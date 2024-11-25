@@ -4,4 +4,3 @@
 - I am developing Automation of Architectural Design and Construction Value Engineering.
 
 - **Email** : pattern.langue@gmail.com
-- **Linkedin** : [🔗](https://www.linkedin.com/in/woong-jean-vyun-160aa3228/)
