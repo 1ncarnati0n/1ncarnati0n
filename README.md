@@ -1,6 +1,6 @@
 ## 🧑🏻‍💻 About Me
 
-- I graduated with a degree in architecture from Seoul.
-- I work as a computational designer and developer in the AEC industry in South Korea.
-- I occasionally also work as an architectural designer.
-- My work involves automation R&D in architectural design and construction value engineering.
+- I hold a degree in Architecture from a university in Seoul.
+- I work as a Developer and Computational Designer in the AEC industry in Seoul.
+- I also practice as an Architectural Designer.
+- My work focuses on R&D in AI and Digital Transformation for the AEC industry in South Korea.
