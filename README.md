@@ -1,7 +1,7 @@
 ## 🧑🏻‍💻 About Me
 
-- I hold a degree in Architecture from a university in Seoul.
-- Completed the 3rd cohort of the AI Specialist Training Program organized by the Ministry of SMEs and Startups
-- I work as a Developer and Computational Designer in the AEC industry in Seoul.
-- I also practice as an Architectural Designer.
-- My work focuses on R&D in AI and Digital Transformation for the AEC industry in South Korea.
+- Holds a B.Arch. from Seoul, reinforced by government-certified AI expertise.
+- Completed the intensive AI Specialist Program (3rd Cohort) by the Ministry of SMEs and Startups.
+- Working at the intersection of tech and AEC as a Developer & Computational Designer.
+- A practicing Architectural Designer with a tech-driven approach.
+- Leading AI-driven R&D and Digital Transformation within the South Korean AEC sector.
