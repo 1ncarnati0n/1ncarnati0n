@@ -1,7 +1,7 @@
 ## 🧑🏻‍💻 About Me
 
-- Serving as Technical Lead of the AX (AI Transformation) team at a construction group, building AI-driven software for construction.
-- Transitioning from architectural design to software engineering, as a Developer & Computational Designer.
+- Developer & AI Engineer, serving as Technical Lead of the AX team at a construction group.
+- Building AI-driven software for construction, including a project management SaaS platform.
+- Bringing a decade of architectural design and computational design expertise into software and AI engineering.
 - Completed the intensive AI Specialist Program (3rd Cohort) by the Ministry of SMEs and Startups.
-- Bringing a decade of architectural design experience into product and system development.
 - Holds a B.Arch. from Seoul.
