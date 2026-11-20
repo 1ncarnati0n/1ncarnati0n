@@ -1,6 +1,7 @@
 ## 🧑🏻‍💻 About Me
 
-- Holds a B.Arch. from Seoul, reinforced by government-certified AI expertise.
+- Serving as Technical Lead of the AX (AI Transformation) team at a construction group, building AI-driven software for construction.
+- Transitioning from architectural design to software engineering, as a Developer & Computational Designer.
 - Completed the intensive AI Specialist Program (3rd Cohort) by the Ministry of SMEs and Startups.
-- Working at the intersection of tech and AEC as a Developer & Computational Designer.
-- A practicing Architectural Designer with a tech-driven approach.
+- Bringing a decade of architectural design experience into product and system development.
+- Holds a B.Arch. from Seoul.
